@@ -1,3 +1,2 @@
-# MyNeuralNetPgms
-# This file is to learn NN using R
+# To understand the OSS projects development lifecycle
 # 
